@@ -66,7 +66,7 @@ FastAPI • Python • Docker • Git • CI/CD • MLOps
 - Vector-based semantic search  
 - Upload PDF or paste a link to chat.
 
-**Stack:** Python • LangChain • Vector DB • FastAPI  
+**Stack:** Python • LangChain • FAISS
 🛠️ First Project, does not follow a modular sclable design.  
 🔗 https://github.com/prateekroyy/QuickRAG  
 
@@ -81,7 +81,7 @@ FastAPI • Python • Docker • Git • CI/CD • MLOps
 - LangGraph-based multi-graph execution architecture
 - Email Generation
 
-**Stack:** Streamlit • FastAPI • GenAI  
+**Stack:** Python • LangGraph • GenAI  
 🛠️ In Active Development, More feature nodes + Agentic System upcoming. 
 🔗 https://github.com/prateekroyy/HireAssistantAI  
 
