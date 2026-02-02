@@ -1,6 +1,6 @@
 <h1 align="center"><font color="#ff7a00">Prateek Roy</font></h1>
 
-<h3 align="center">AI Developer • GenAI Engineer • Machine Learning Enthusiast</h3>
+<h3 align="center">AI Engineer • GenAI Engineer • Machine Learning Enthusiast</h3>
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 <br/>
 
 I’m fascinated by how technology can **think**, **create**, and **solve real-world problems**.  
-As an **AI Developer**, I focus on building **real-world, production-ready AI systems**.
+As an **AI Engineer**, I focus on building **real-world, production-ready AI systems**.
 
 🚀 If you're building AI that **actually matters**, let’s collaborate.
 
@@ -20,7 +20,7 @@ As an **AI Developer**, I focus on building **real-world, production-ready AI sy
 
 ## About Me
 
-- AI Developer focused on **Generative AI, LLMs & Agentic Systems**
+- AI Engineer focused on **Generative AI, LLMs & Agentic Systems**
 - Building **scalable, production-ready AI systems**
 - Passionate about **AI with real-world impact**
 - Constantly learning **advanced AI architectures**
@@ -52,7 +52,7 @@ FastAPI • Python • Docker • Git • CI/CD • MLOps
 - AI-generated planning reports  
 
 **Stack:** LangGraph • FastAPI • React • Leaflet • Groq  
-✅ Phase-1 Ongoing(Currently Private Repo)  
+✅ Phase-1 Done  
 🔗 https://github.com/prateekroyy/Grama-AI  
 
 </td>
